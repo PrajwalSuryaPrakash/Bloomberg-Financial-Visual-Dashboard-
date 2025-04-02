@@ -60,9 +60,9 @@ python main.py
 ---
 
 ## 🤝 **Contributors**  
-👤 **Nava Bhargav Gedda**  
-📩 [navabhargavg@gmail.com](mailto:navabhargavg@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/nava-bhargav-gedda-4a4a30151) | 🌐 [GitHub](https://github.com/Navabhargav)  
+👤 **Prajwal Surya Prakash**  
+📩 [prajwalsuryaprakashg@gmail.com](mailto:prajwalsuryaprakash@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/prajwal-surya-prakash-7bb980246/) | 🌐 [GitHub](https://github.com/PrajwalSuryaPrakash)  
 
 ---
 
