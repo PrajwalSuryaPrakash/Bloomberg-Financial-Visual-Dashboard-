@@ -61,7 +61,7 @@ python main.py
 
 ## 🤝 **Contributors**  
 👤 **Prajwal Surya Prakash**  
-📩 [prajwalsuryaprakashg@gmail.com](mailto:prajwalsuryaprakash@gmail.com)  
+📩 [prajwalsuryaprakash@gmail.com](mailto:prajwalsuryaprakash@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/prajwal-surya-prakash-7bb980246/) | 🌐 [GitHub](https://github.com/PrajwalSuryaPrakash)  
 
 ---
